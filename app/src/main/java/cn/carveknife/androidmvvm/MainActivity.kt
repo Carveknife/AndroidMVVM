@@ -1,4 +1,4 @@
-package cn.cuibg.androidmvvm
+package cn.carveknife.androidmvvm
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

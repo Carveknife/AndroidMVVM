@@ -1,4 +1,4 @@
-package cn.cuibg.mvvm.http.respository
+package cn.carveknife.mvvm.http.respository
 
 import com.google.gson.annotations.SerializedName
 

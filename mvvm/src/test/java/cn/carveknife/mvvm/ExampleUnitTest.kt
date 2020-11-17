@@ -1,4 +1,4 @@
-package cn.cuibg.mvvm
+package cn.carveknife.mvvm
 
 import org.junit.Test
 

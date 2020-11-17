@@ -1,4 +1,4 @@
-package cn.cuibg.androidmvvm
+package cn.carveknife.androidmvvm
 
 import org.junit.Test
 

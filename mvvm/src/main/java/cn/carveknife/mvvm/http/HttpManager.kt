@@ -1,6 +1,5 @@
-package cn.cuibg.mvvm.http
+package cn.carveknife.mvvm.http
 
-import okhttp3.Cache
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory

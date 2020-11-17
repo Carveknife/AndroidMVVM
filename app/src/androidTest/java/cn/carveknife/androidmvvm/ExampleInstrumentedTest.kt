@@ -1,4 +1,4 @@
-package cn.cuibg.androidmvvm
+package cn.carveknife.androidmvvm
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
